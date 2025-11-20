@@ -337,6 +337,7 @@ header {
     cursor: pointer;
     transition: transform 1s ease;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    background-color: #ece8e8;
 
 
 }
